@@ -65,6 +65,14 @@ GenerateClassCluster=0
 DocumentPath=HZK_Connectors.PcbLib.htm
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=..\..\..\AD元器件库\XH2.54.PcbLib.htm
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\..\..\AD元器件库\电源接口.PcbLib.htm
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
